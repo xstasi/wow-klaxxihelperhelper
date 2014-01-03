@@ -1,0 +1,4 @@
+- only whispers from raid leader
+- only on klaxxi combat
+- localization
+

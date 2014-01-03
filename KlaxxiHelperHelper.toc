@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: Klaxxi Helper Helper
+## Authors: Trawkan (Well of Eternity EU)
+## Version: 5.4.2
+## Notes: This mod helps notice whispers from Klaxxi Helpers
+## DefaultState: Enabled
+## LoadOnDemand: 0
+KlaxxiHelperHelper.lua
